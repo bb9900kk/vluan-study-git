@@ -1,0 +1,56 @@
+	
+
+    Phần mềm từ điển Goldendict thì anh em đã biết rồi.
+    Mình mới kiếm được các bộ đại từ điển cho Goldendict.
+    Cambridge Advanced Learners Dictionary 3 (CALD 3)
+    Longman Dictionary of Contemporary English 5th Edition (LDOCE 5)
+    Longman Pronunciation Dictionary
+    Merriam Webster Collegiate 11
+    American Heritage Dictionary
+    Oxford Advanced Learners Dictionary 8 (OALD 8)
+    Collins sounds
+    MACMILLAN
+    Với đầy đủ giọng người đọc, hình ảnh minh họa, trình bày đẹp, rõ ràng.
+    Với bộ này thì Babylon, Lingoes... xách dép cho Goldendict .
+    Link tải về (cập nhât lại link mới): Code: https://drive.google.com/drive/folders/0B0uCc0EJAdCJR0Q5TlZCQVBKSm8?usp=sharing Và hàng trăm bộ từ điển khác cho Goldendict :
+    http://goo.gl/9EXqX7
+    Good luck
+    Tải phần mềm Goldendict:
+    Bản mới nhất cho windows là 1.5.0, tải về tại đây:
+    https://github.com/goldendict/goldendict/wiki/Early-Access-Builds-for-Windows
+    Có cả bản portable và bản cài trong link trên, recommend dùng bản Qt 5.5.1-based build nhé.
+    Link Mirror tải dữ liệu từ điển:
+    https://onedrive.live.com/?authkey=!AJneLstDOJJWpUs&id=DE0EF6A7CE4A3A77!302&cid=DE0EF6A7CE4A3A77
+    Các Bộ từ điển tiếng Việt tải về tại đây:
+    Code: https://drive.google.com/folderview?id=0B0uCc0EJAdCJanYyN3o5WmtsMU0&usp=sharing Gồm:
+    Lạc việt (E-V,V-A)
+    LacViet_AV_VA_VV.dsl (Bản mới gồm cả 3 từ điển) Thanks buivietkhoa1919upg
+    Prodic Business (EV,VE)
+    Prodic Technical (EV,VE)
+    Các bộ từ điển tiếng Pháp (Pháp Việt, Pháp Anh):
+    Code: https://drive.google.com/folderview?id=0B0uCc0EJAdCJbDBMYnd5SXc0V1U&usp=sharing Gồm
+    Lạc việt (F-V,V-F)
+    Oxford Hachette Concise (F-E,E-F)
+    Larousse (F-E,E-F)
+    Update thêm từ điển LDOCE6 và OALD9 và CALD4
+    ashvsmay00 said:
+
+        Share luôn OALD9 với LDOCE6 đầy đủ audio :byebye:
+        onedrive.live.com/redir?resid=C4BBB0BD147AFCA2!118&authkey=!AJNFfEapY5E7xxg&ithint=folder,
+
+    Mirror:
+    tranduyquang said:
+
+        Link FS LDOCE6 :byebye:
+        Code: https://www.fshare.vn/file/CEMQI3MMYQI1 Link FS OALD9Dict
+        Code: https://www.fshare.vn/file/K4IY11RGQZKK
+
+    CALD4:
+    tailaptop said:
+
+        Tặng mọi người tự điển CALD4, mình có dùng dictzip để nén lại cho gọn. Và gom 2 folder hình và sound lại thành 1 file nén cho gọn. Vậy là đã đủ 3 bộ đại từ điển mới nhất rồi :sexy:
+        Code: https://www.fshare.vn/file/QGR9N93EHY5J
+
+    Sử dụng bản Qt 5.6.1-based build nếu bị lỗi hiển thị nhé.
+     
+
