@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1513141445 source:/mnt/data/test_pipe_reader/main.cpp
+	<fcntl.h>
+	<stdio.h>
+	<sys/stat.h>
+	<unistd.h>
+	<stdio.h>
+

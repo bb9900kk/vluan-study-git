@@ -1,0 +1,26 @@
+syntax = "proto3";
+package MyTestProtobufJava;
+
+
+//option optimize_for = LITE_RUNTIME;
+
+option java_package = "MyTestProtobufJava";
+option java_outer_classname = "MyTestProtobufJavaMsg";
+
+
+//public void SendMyDataTest(MyDataTest iMDT)
+//  public String name;
+//	public int		id;
+//	public float salary1;
+//	public double salary2;
+//	public byte[] keyPrivate;
+
+message SendMyDataTest
+{
+	string name = 1;
+	int32  id   = 2;
+	float salary1 = 3;
+	double salary2 = 4;
+	bytes  keyPrivate = 5;
+
+}
